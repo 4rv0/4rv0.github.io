@@ -44,8 +44,7 @@ the room block rooms will be filled.
 
 My total hotel expenses this year will be about $138/night,
 because I'm taking advantage of a room rate,
-and because I made my reservation early and extended it 
-through Defcon.  As of the time of this post, 
+and because I made my reservation early.  As of the time of this post, 
 the few available rooms at the larger, strip hotels are going for 
 as much as $600 a night.  
 
