@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I'm 4rv0. I'm a hacker, and I've been around a while.
+I'm a hacker who goes by 4rv0.
 I like to write things, so this is where I do that.
